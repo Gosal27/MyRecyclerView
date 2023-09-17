@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Brunei Darussalam</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+        <item>Timor Leste</item>
+
+    </string-array>
+    <string-array name="data_description">
+        <item>Negara Republik Indonesia adalah salah satu negara pendiri ASEAN yang bergabung sejak 8 Agustus 1967.
+Selain menjadi pelopor, Indonesia merupakan tuan rumah ASEAN Summit pertama yang digelar di Bali pada 23-24 Februari 1976.</item>
+        <item>Malaysia termasuk negara pendiri ASEAN yang bergabung bersamaan dengan Indonesia pada 1967. Negara tetangga Indonesia ini menganut sistem pemerintahan monarki konstitusional. Hal itu membuat Malaysia dipimpin oleh seorang raja atau disebut Yang di-Pertuan Agong.
+        </item>
+        <item>Negara bekas jajahan Inggris ini sempat bergabung dengan Malaysia selepas masa penjajahan pada 1963. Selang dua tahun, Singapura memutuskan lepas dari Negeri Jiran dan merdeka pada 9 Agustus 19
+</item>
+        <item>Thailand adalah negara pelopor sekaligus tempat lahirnya ASEAN. Saat ini, Thailand menggunakan sistem pemerintahan kesatuan parlementer semi-demokrasi monarki konstitusional. Negara ASEAN berbentuk kerajaan ini tidak punya dewan legislatif, tetapi raja menjalankan kekuasaannya melalui rakyat.</item>
+        <item>Filipina menjadi negara ASEAN dengan bentuk pemerintahan republik karena mengikuti sistem pemerintahan Amerika Serikat. Negara yang terletak di utara Indonesia itu mengikuti sistem pemerintah AS karena masa penjajahan Spanyol dan Inggris selama lebih dari 250 tahun hingga akhirnya diakuisisi Negeri Paman Sam pada 10 Desember 1898.
+        </item>
+        <item>Negara ASEAN berbentuk kerajaan selanjutnya adalah Brunei Darussalam. Negara termuda di kawasan Asia Tenggara ini menganut sistem kesatuan Islam absolut monarki konstitusional. Brunei Darussalam dipimpin oleh seorang Sultan yang mempunyai fungsi kepala negara sekaligus kepala pemerintahan.
+</item>
+        <item>Negara Vietnam memiliki bentuk pemerintahan republik. Namun berbeda dengan Indonesia yang menganut asas demokrasi, negara yang merdeka dari penjajahan Prancis ini menganut sistem sosialisme. Kepala negara dipimpin oleh presiden, sementara kepala pemerintahan oleh perdana menteri. Perdana menteri mengepalai tiga deputi perdana menteri dan 26 menteri serta perwira.
+        </item>
+        <item>Laos sebelumnya menjadi negara bekas penjajahan Prancis. Laos mulai menyatakan kemerdekaannya pada 19 Juli 1949, namun baru diakui oleh Prancis pada 22 Oktober 1953. Laos menjadi negara ASEAN dengan bentuk pemerintahan republik dan konstitusi baru pada 1991.
+</item>
+        <item>Myanmar resmi menjadi bagian dari anggota ASEAN bersamaan dengan Laos pada 23 Juli 1997. Peresmian Myanmar ini berlangsung pada saat pertemuan para Menteri Luar Negeri ASEAN ke-30 di Subang Jaya, Malaysia, pada 23-28 Juli 1997.
+        </item>
+        <item>Kamboja termasuk negara ASEAN yang menganut sistem kesatuan dominan partai elektif parlementer monarki konstitusional. Kamboja dipimpin oleh seorang raja sebagai kepala negara. Namun, juga punya perdana menteri sebagai kepala pemerintahan.
+        </item>
+        <item>Timor Leste merupakan negara anggota ASEAN yang ke-11. Timor Leste diakui jadi anggota ASEAN pada saat para pemimpin negara anggota melangsungkan KTT di Phnom Penh, Kamboja pada November
+</item>
+
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/indonesia</item>
+        <item>@drawable/malaysia</item>
+        <item>@drawable/singapura</item>
+        <item>@drawable/thailand</item>
+        <item>@drawable/filipina</item>
+        <item>@drawable/brunei</item>
+        <item>@drawable/vietnam</item>
+        <item>@drawable/laos</item>
+        <item>@drawable/myanmar</item>
+        <item>@drawable/kamboja</item>
+        <item>@drawable/timorleste</item>
+    </integer-array>
+    <string-array name="data_detail">
+        <item>Indonesia merupakan negara terluas ke-14 sekaligus negara kepulauan terbesar di dunia dengan luas wilayah sebesar 1.904.569 km², serta negara dengan pulau terbanyak ke-6 di dunia, dengan jumlah 17.504 pulau. Nama alternatif yang dipakai untuk kepulauan Indonesia disebut Nusantara. Selain itu, Indonesia juga menjadi negara berpenduduk terbanyak ke-4 di dunia dengan penduduk mencapai 277.749.853 jiwa pada tahun 2022, serta negara dengan penduduk beragama Islam terbanyak di dunia, dengan penganut lebih dari 238.875.159 jiwa atau sekitar 86,9%.Indonesia adalah negara multiras, multietnis, dan multikultural di dunia, seperti halnya Amerika Serikat.</item>
+        <item>Malaysia sebagai negara federal belum pernah ada sampai tahun 1963. Sebelumnya, sekumpulan koloni didirikan oleh Britania Raya pada akhir abad ke-18, dan bagian barat Malaysia modern terdiri dari beberapa kerajaan yang terpisah-pisah. Kumpulan wilayah jajahan itu dikenal sebagai Malaya Britania hingga pembubarannya pada 1946, ketika kumpulan itu disusun kembali sebagai Uni Malaya. Seiring dengan semakin meluasnya tentangan, kumpulan itu lagi-lagi disusun kembali sebagai Federasi Malaya pada tahun 1948 dan kemudian meraih kemerdekaan pada 31 Agustus 1957.</item>
+        <item>Singapura memiliki sejarah imigrasi yang panjang. Penduduknya yang beragam berjumlah kira-kira 6 juta jiwa, terdiri dari Orang Tionghoa, Melayu, India, Arab, berbagai keturunan Asia, dan Kaukasoid.[10] Sebanyak 42% penduduk Singapura adalah orang asing yang bekerja dan menuntut ilmu di sana. Pekerja asing membentuk 50% dari sektor jasa. Negara ini adalah yang terpadat kedua di dunia setelah Monako. A.T. Kearney menyebut Singapura sebagai negara paling terglobalisasi di dunia dalam Indeks Globalisasi tahun 2006.</item>
+        <item>Orang-orang Thailand bermigrasi dari Yunnan Tiongkok ke daratan Asia Tenggara selama berabad-abad. Referensi paling awal yang diketahui tentang kehadiran mereka di wilayah tersebut berkaitan dengan pengasingan orang Siam di prasasti abad ke-12 di kompleks kuil Khmer Angkor Wat di Kamboja yang menyebut mereka "palsu" atau "perang lama". Daerah itu pernah dikuasai oleh berbagai pemerintah negara bagian India seperti Mon, Kekaisaran Khmer, dan negara-negara Melayu, bersaing dengan negara-negara seperti Ngoenyang Thailand, Sukhothai, kerajaan Chiang Mai, Lan Na dan Ayutthaya juga saling bertentangan. Orang-orang Eropa tiba pada abad ke-16, dimulai dengan misi diplomatik Portugis ke Ayutthaya pada tahun 1511. Abad-abad berikutnya melihat berbagai kekuatan kolonial Eropa menduduki wilayah-wilayah di IndoTiongkok, di mana Thailand kehilangan sebagian besar wilayahnya oleh Prancis dan Inggris tetapi tetap satu-satunya. Negara-negara Asia Tenggara yang selamat dari pendudukan. Sejak pemerintahan Raja Rama IV pada pertengahan abad ke-19, Thailand telah berkampanye untuk memodernisasi negara sesuai dengan standar Barat. Hal ini menyebabkan transisi dari monarki absolut ke monarki konstitusional pada tahun 1932. Tetapi 60 tahun berikutnya melihat pemerintahan militer dan demokratis berganti, dengan kudeta terbaru pada Mei 2014.</item>
+        <item>Filipina adalah negara paling maju di Benua Asia setelah Perang Dunia II, namun sejak saat itu telah tertinggal di belakang negara-negara lain akibat pertumbuhan ekonomi yang lemah, penyitaan kekayaan yang dilakukan pemerintah, korupsi yang luas, dan pengaruh-pengaruh neo-kolonial. Meskipun begitu, saat ini Filipina mengalami pertumbuhan ekonomi yang moderat, yang banyak disumbangkan dari pengiriman uang oleh pekerja-pekerja Filipina di luar negeri, dan sektor teknologi informasi yang sedang tumbuh pesat. Filipina sering kali dianggap sebagai satu-satunya negara di Benua Asia di mana pengaruh budaya Barat terasa sangat kuat.</item>
+        <item>Saat ini, Brunei Darussalam memiliki Indeks Pembangunan Manusia tertinggi kedua di Asia Tenggara setelah Singapura, sehingga diklasifikasikan sebagai Negara maju. Menurut Dana Moneter Internasional, Brunei memiliki produk domestik bruto per kapita terbesar kelima di dunia dalam keseimbangan kemampuan berbelanja. Sementara itu, Forbes menempatkan Brunei Darussalam sebagai negara terkaya kelima dari 182 negara karena memiliki ladang minyak bumi dan gas alam yang luas. Selain itu, Brunei juga terkenal dengan kemakmurannya dan ketegasan dalam melaksanakan Agama Islam, baik dalam bidang pemerintahan maupun kehidupan bermasyarakat. Pada tahun 2020, tercatat bahwa Brunei memiliki penduduk sebanyak 460,345 jiwa.</item>
+        <item>Vietnam, lengkapnya bernama Republik Sosialis Vietnam adalah negara di Asia Tenggara Daratan. Vietnam berbatasan dengan Tiongkok di utara, Laos di barat laut, Kamboja di barat daya, dan dengan Laut Tiongkok Selatan di timur. Laut Tiongkok Selatan di Vietnam disebut Laut Timur. Di Vietnam ada 84 juta orang yang tinggal di sana. Vietnam masuk dalam kelompok ekonomi "Next Eleven". PDB per kapita Vietnam tumbuh 8,17% pada tahun 2006, ini termasuk cepat di Asia Timur dan Asia Tenggara. Pada akhir tahun 2007, menteri keuangan Vietnam memaparkan kenaikan PDB per kapita Vietnam menyentuh 8,44%, yakni yang tertinggi dalam satu dasawarsa terakhir.</item>
+        <item>Laos adalah sebuah Negara Republik yang dikelilingi oleh daratan dan terletak di bagian utara Semenanjung Indochina. Laos berasal dari kata Lan Xang yang artinya kerajaan gajah. Negara ini adalah satu-satunya Negara di kawasan Asia Tenggara yang tidak memiliki pantai. Laos pernah dijajah oleh Prancis dan memperoleh kemerdekaan pada 22 Oktober 1953 dalam bentuk kerajaan. Sejak 2 Desember 1975 kerajaan Laos berubah menjadi Republik Laos. Laos adalah salah satu negara komunis dengan kepala pemerintahan berupa presiden yang bernama Thongloun Sisoulith dan dibantu oleh perdana menteri yang bernama Phankam Viphavanh. Jika dilihat dari sudut pandang Geografi Politik, letak wilayah negara Laos yang tidak memiliki wilayah laut atau pantai dikenal dengan sebutan kawasan terkurung daratan atau land-lock. Kondisi ini dianggap kurang menguntungkan dari segi pertahanan dan keamanan, khususnya dari serangan atau invasi bangsa lain. Negara Laos mempunyai lembah sungai subur sehingga banyak menghasilkan tanaman pertanian dan perkebunan, terutama padi, kopi, dan tembakau. Memiliki sumber-sumber tambang mineral, seperti timah, tembaga, emas, dan perak.</item>
+        <item>Peradaban awal di Myanmar termasuk penduduk berbahasa Tibeto-Burma di Burma Utara dan Kerajaan Mon di Burma Selatan. Pada abad ke-9, orang Bamar memasuki lembah atas Sungai Irrawaddy, diikuti dengan didirikannya Kerajaan Pagan tahun 1050-an. Sejak saat itu, bahasa Burma, termasuk budaya dan Buddha Theravada perlahan-lahan menjadi dominan di negara ini. Kerajaan Pagan jatuh akibat invasi Mongol. Pada abad ke-16, setelah disatukan oleh Dinasti Taungoo, negara ini sesaat pernah menjadi kekaisaran terbesar dalam sejarah Asia Tenggara. Pada abad ke-19, Dinasti Konbaung menguasai daerah yang didalamnya termasuk wilayah Myanmar modern saat ini dan sesaat menguasai Manipur dan Assam. Inggris menguasai Myanmar setelah 3 Perang Anglo-Burma pada abad ke-19 dan negara ini kemudian menjadi koloni Inggris. Myanmar mendapatkan kemerdekaan tahun 1948, awalnya sebagai negara demokrasi, tetapi setelah kudeta tahun 1962, negara ini dikuasai militer.</item>
+        <item>Perkembangan peradaban Kamboja terjadi pada abad 1 Masehi. Selama abad ke-3,4 dan 5 Masehi, negara Funan dan Chenla bersatu untuk membangun daerah Kamboja. Negara-negara ini mempunyai hubungan dekat dengan Cina dan India. Kekuasaan dua negara ini runtuh ketika Kerajaan Khmer dibangun dan berkuasa pada abad ke-9 sampai abad ke-13. Kerajaan Khmer masih bertahan hingga abad ke-15. Ibu kota Kerajaan Khmer terletak di Angkor, sebuah daerah yang dibangun pada masa kejayaan Khmer. Angkor Wat, yang dibangun juga pada saat itu, menjadi simbol bagi kekuasaan Khmer. Pada tahun 1432, Khmer dikuasai oleh Kerajaan Thai. Dewan Kerajaan Khmer memindahkan ibu kota dari Angkor ke Lovek, di mana Kerajaan mendapat keuntungan besar karena Lovek adalah bandar pelabuhan. Pertahanan Khmer di Lovek akhirnya bisa dikuasai oleh Thai dan Vietnam, dan juga berakibat pada hilangnya sebagian besar daerah Khmer. Peristiwa ini terjadi pada tahun 1594. Selama 3 abad berikutnya, Khmer dikuasai oleh Raja-raja dari Thai dan Vietnam secara bergilir.</item>
+        <item>Timor Timur dijajah oleh Portugal pada abad ke-16, dan dikenal sebagai Timor Portugis sampai 28 November 1975, ketika Front Revolusi Kemerdekaan Timor-Leste (FRETILIN) mengumumkan kemerdekaan wilayah tersebut. Sembilan hari kemudian, Indonesia melakukan invasi dan kemudian menganeksasi Timor Timur. Timor Timur dinyatakan sebagai provinsi ke-27 oleh Indonesia pada tahun berikutnya. Pendudukan Indonesia di Timor Timur ditandai oleh konflik yang sangat keras selama beberapa dasawarsa antara kelompok separatis (khususnya FRETILIN) dan militer Indonesia.</item>
+    </string-array>
+</resources>
